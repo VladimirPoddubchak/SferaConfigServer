@@ -1,3 +1,4 @@
+greeting: hello, I am user-service, defoult profile.
 server:
   port: 8090
 
